@@ -1,0 +1,2 @@
+# TextSimilarity
+REST API TextSimilarity
